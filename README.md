@@ -1,4 +1,7 @@
 # gow-base-images
+| [Base Images](#) | [Desktop Base Images](https://github.com/Mollomm1/gow-desktop-bases) | [Desktop Images](https://github.com/Mollomm1/gow-desktops) |
+|-------------- |------|------|
+
 base and base-app images for Wolf that are based on ubuntu and debian.
 
 > only x86_64 is supported at the moment.
